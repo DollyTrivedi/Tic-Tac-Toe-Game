@@ -33,11 +33,4 @@ This project is ideal for beginners who want to practice **JavaScript logic**, *
 - **CSS3** – Styling, layout, and responsiveness
 - **JavaScript (ES6)** – Game logic and interactivity
 
----
-
-=>  Project Structure
-
-├──index.html # Main HTML file
-├── style.css # Styling and layout
-├── app.js # Game logic
 
